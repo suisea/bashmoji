@@ -14,7 +14,7 @@ then
     echo -n '🌅'
 elif [ "$time" -lt 1300 ]
 then
-    echo -n '⛅️ '
+    echo -n '⛅️'
 elif [ "$time" -lt 1700 ]
 then
     echo -n '🌈'
@@ -29,7 +29,7 @@ then
     echo -n '🌌'
 elif [ "$time" -lt 0300 ]
 then
-    echo -n '🌙�'
+    echo -n '🌙'
 elif [ "$time" -lt 0600 ]
 then
     echo -n '🌘'
